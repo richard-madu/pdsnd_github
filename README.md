@@ -7,11 +7,11 @@
 BIKESHARE PROJECT
 
 ### Description
-This is an app that returns basic descrptive statistics of a preloaded data. The data is a from a hypothetical bikeshare company from 3 cities in the United States; New York, Chicago and Washington.
+This is an app that returns basic descrptive statistics of a preloaded data all Mondays in January. The data is a from a hypothetical bikeshare company from 3 cities in the United States; New York, Chicago and Washington. 
 
 ### Files used
-
+The file used would be added to the repo
 
 ### Credits
-I must acknowlegde with profound the Udacity team for giving me this great opportunity to upskill and learn new things
+I must acknowlegde with profound the Udacity team for giving me this great opportunity to upskill. Also a big shout out to Sudkul
 
