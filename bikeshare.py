@@ -181,9 +181,14 @@ def main():
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
 <<<<<<< HEAD
+<<<<<<< HEAD
             print("Thank you for your time")
 ||||||| parent of 63a275f... Rephrase the last message
 =======
+||||||| parent of 431b22d... Added A Concluding Message
+=======
+            print("Thanks for your time")
+>>>>>>> 431b22d... Added A Concluding Message
 
 >>>>>>> 63a275f... Rephrase the last message
             break
