@@ -163,7 +163,7 @@ def raw(df):
     while True:
         raw_input = input('Do you want to see 5 lines of raw data? (y/n): ').lower()
         if raw_input != 'y':
-            print('Okay!')
+            print('Alright!')
             break
         else:
             print(df.iloc[iloc_start:iloc_start+5])
@@ -180,6 +180,7 @@ def main():
            
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
+
             break
 if __name__ == "__main__":
 	main()
